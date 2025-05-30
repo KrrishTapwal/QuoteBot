@@ -1,9 +1,7 @@
 streamlit
-sentence-transformers
 transformers
+datasets
+sentence-transformers
 torch
 scikit-learn
-faiss-cpu
-numpy
 pandas
-accelerate>=0.21.0
